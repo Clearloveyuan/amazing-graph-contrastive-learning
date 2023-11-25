@@ -36,7 +36,7 @@
     - [Cookiecutter template](#cookiecutter-template)
     - [Manual setup](#manual-setup)
     - [Variables reference](#variables-reference)
-- [Learnable Graph Constrastive Learning](#)
+- [Learnable Graph Constrastive Learning](#Learnable-Graph-Contrastive-Learning)
 - [Contributing](#contributing)
 - [Support](#support)
 - [License](#license)
@@ -165,7 +165,7 @@ Default values are provided as an example to help you figure out what should be 
 
 > NOTICE: to use GitHub Discussions, you have to [enable it first](https://docs.github.com/en/discussions/quickstart).
 
-## Roadmap
+## Learnable-Graph-Contrastive-Learning
 
 See the [open issues](https://github.com/dec0dOS/amazing-github-template/issues) for a list of proposed features (and known issues).
 
