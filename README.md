@@ -36,7 +36,7 @@
     - [Cookiecutter template](#cookiecutter-template)
     - [Manual setup](#manual-setup)
     - [Variables reference](#variables-reference)
-- [Roadmap](#roadmap)
+- [Learnable Graph Constrastive Learning](#)
 - [Contributing](#contributing)
 - [Support](#support)
 - [License](#license)
@@ -169,7 +169,7 @@ Default values are provided as an example to help you figure out what should be 
 
 See the [open issues](https://github.com/dec0dOS/amazing-github-template/issues) for a list of proposed features (and known issues).
 
-- [Top Feature Requests](https://github.com/dec0dOS/amazing-github-template/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+- [Graph Self-supervised Learning with Augmentation-aware Contrastive Learning], WWW-2023, [Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583246) Code-None
 - [Top Bugs](https://github.com/dec0dOS/amazing-github-template/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
 - [Newest Bugs](https://github.com/dec0dOS/amazing-github-template/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
