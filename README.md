@@ -169,6 +169,13 @@ Default values are provided as an example to help you figure out what should be 
 
 See the [open issues](https://github.com/dec0dOS/amazing-github-template/issues) for a list of proposed features (and known issues).
 
+- DGI [Deep Graph Infomax](https://arxiv.org/abs/1809.10341), ICLR, 2019, Cite: 1912.
+- MVGRL [Contrastive multi-view representation learning on graphs](https://arxiv.org/abs/2006.05582), ICML, 2020, Cite:992.
+- GRACE [DEEP GRAPH CONTRASTIVE REPRESENTATION LEARNING](https://arxiv.org/abs/2006.04131), ICML, 2020, Cite:552. 
+- GCA [Graph Contrastive Learning with Adaptive Augmentation](https://dl.acm.org/doi/abs/10.1145/3442381.3449802), WWW, 2021, Cite:629.
+- GCC [GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training](https://arxiv.org/abs/2006.09963), KDD, 2020, Cite:682.
+- AFGRL [Augmentation-free self-supervised learning on graphs](https://arxiv.org/abs/2112.02472), AAAI, 2022, Cite:92. 
+
 - [Graph Self-supervised Learning with Augmentation-aware Contrastive Learning], WWW-2023, [Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583246) Code-None
 - [Top Bugs](https://github.com/dec0dOS/amazing-github-template/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
 - [Newest Bugs](https://github.com/dec0dOS/amazing-github-template/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
