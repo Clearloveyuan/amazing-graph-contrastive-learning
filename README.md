@@ -179,6 +179,7 @@ See the [open issues](https://github.com/dec0dOS/amazing-github-template/issues)
 - GBT [A self-supervised representation learning framework for graphs](https://arxiv.org/abs/2106.02466), arXiv, 2021, Cite:68.
 - GraphCL [Graph contrastive learning with augmentations](https://arxiv.org/abs/2010.13902), NeurIPS, 2020, Cite:1246.
 - GMI [Graph representation learning via graphical mutual information maximization](https://arxiv.org/abs/2002.01169), WWW, 2020, Cite:418.
+- Contrast-Reg [Calibrating and Improving Graph Contrastive Learning](https://openreview.net/pdf?id=LdSP6cvTS4), TMLR, 2023.
 
 - GDD [Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination](https://arxiv.org/abs/2206.01535), NeurIPS, 2022, Cite:34.
 - [Graph Self-supervised Learning with Augmentation-aware Contrastive Learning], WWW-2023, [Paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583246) Code-None
